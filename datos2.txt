@@ -1,0 +1,3 @@
+Este archivo es de prueba
+Voy a leerlo con la opción de archivos
+El programa esta escrito en C++
